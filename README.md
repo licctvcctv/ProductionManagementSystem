@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1ni4y1h7HM
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的课程作业管理系统，可以给管理员、学生、教师使用，包括课程类型、课程信息、学生选课、作业布置、作业提交、作业评分、课程评价、课程资源和系统基础模块，项目编号T023。
 
